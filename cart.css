@@ -1,0 +1,68 @@
+#styles{
+    font-family: Arial;
+   
+}
+
+
+#cards{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+#rewaa{
+    font-size: xx-large;
+}
+.floot{
+    font-size: xx-large;
+    text-align: center;
+}
+#card3d{
+    width: 100px;
+}
+#card3a{
+    width: 60px;
+}
+#card2d{
+    width: 100px;
+}
+#card3a{
+    width: 60px;
+}
+#card1d{
+    width: 100px;
+}
+#card1a{
+    width: 60px;
+}
+#price{
+    display: flex;
+    justify-content: space-around;
+
+}
+#total{
+    width: 6%;
+    height: 35px;
+    background-color: rgb(32, 129, 219);
+    border-radius: 25px;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+#quat{
+    width: 60px;
+    height: 35px;
+    background-color: rgb(32, 129, 219);
+    border-radius: 25px;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+#remove{
+    width: 100px;
+    height: 40px;
+}
